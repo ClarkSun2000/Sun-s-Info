@@ -4,21 +4,21 @@
 
 ![Language](https://img.shields.io/badge/language-Network-brightgreen)       ![Language](https://img.shields.io/badge/language-HCIE-9cf)         ![Language](https://img.shields.io/badge/language-HuaWei-lightgrey)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=B729F7&background=40CE6096&width=436&lines=You+reap+what+you+sow+!;From+E10adc)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F727EB&width=435&lines=HCIE+Yes%EF%BC%8C+HuaWei+Nice)](https://git.io/typing-svg)
 
 
 
 ## Do
 
-📷 **<font color="#0000dd">Network</font>**
+👔 **<font color="#0000dd">Network</font>**
 
 📱 **<font color="#00dddd">HCIE</font>**
 
 ☁ **<font color="pink">Cloud</font>**
 
-🧬  **<font color="gold">Auto</font>**
+📟  **<font color="gold">SRE</font>**
 
-♻ **<font color="#dd00dd">CCIE</font>**
+📮 **<font color="#dd00dd">CCIE</font>**
 
 **......**
 
@@ -26,7 +26,7 @@
 
 ## Who
 
-![Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClarkSun2000&theme=tokyonight&show_icons=true)
+![Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClarkSun2000&theme=tokyonight&show_icons=true)
 
 
 
