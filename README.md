@@ -2,7 +2,7 @@
 
 ## Features
 
-![Language](https://img.shields.io/badge/language-Network-brightgreen)       ![Language](https://img.shields.io/badge/language-HCIE-9cf)         ![Language](https://img.shields.io/badge/language-HuaWei-lightgrey)  
+![Work](https://img.shields.io/badge/language-Network-brightgreen)       ![Licese](https://img.shields.io/badge/language-HCIE-9cf)         ![Com.](https://img.shields.io/badge/language-HuaWei-lightgrey)  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F727EB&width=435&lines=HCIE+Yes%EF%BC%8C+HuaWei+Nice)](https://git.io/typing-svg)
 
